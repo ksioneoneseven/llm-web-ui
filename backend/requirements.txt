@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pytorch-lightning
+torch
+transformers
+huggingface_hub
+tensorboard
+python-multipart
